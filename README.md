@@ -560,4 +560,4 @@ This stage demonstrated the operational difference between static and dynamic ro
 ## Project Navigation
 
 [← Previous: Network Security with ACLs and Port Security](../02-network-security/README.md)  
-[Return to the main project](../README.md)
+[Return to the main project](https://github.com/AdeniyiAdesakin/cisco-packet-tracer-campus-network)
